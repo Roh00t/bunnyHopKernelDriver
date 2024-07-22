@@ -7,7 +7,7 @@
 
 This project is a comprehensive tool designed for interacting with a game at a low level, primarily intended for creating cheats or mods. It consists of a kernel driver located in the "Kernel Mode(KM)" directory and a user mode application with a graphical user interface, located in the "bunnyHopKernelDriver" directory.
 
-The kernel driver provides essential functionality for reading from and writing to virtual memory, enabling users to manipulate various aspects of the game's state. Meanwhile, the user mode application utilizes this functionality to implement a range of features, including an aimbot, while also offering a user-friendly interface for configuring these features.
+The kernel driver provides essential functionality for reading from and writing to virtual memory, enabling users to manipulate various aspects of the game's state. Meanwhile, the user mode application utilizes this functionality to implement an endless possibility of features including range of features, including an aimbot, while also offering a possibility of user-friendly interface for configuring these features.
 
 ## Welcome to The Kernel Driver Guide
 
